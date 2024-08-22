@@ -5,7 +5,7 @@ This project requires us to find the nutrients present in fruits and vegetables 
 ![flow_f](https://github.com/user-attachments/assets/85df3a11-99ba-4248-8f8a-655eb7a0a45b)
 
 
-UI 
+## UI Page Streamlit 
 
 ![image](https://github.com/user-attachments/assets/6239483e-0bd3-4910-91ae-617c6e21358e)
 
