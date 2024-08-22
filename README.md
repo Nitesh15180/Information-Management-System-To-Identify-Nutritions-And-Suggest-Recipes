@@ -14,6 +14,4 @@ UI
 ![image](https://github.com/user-attachments/assets/6eeec042-6f09-4269-badb-92b5ec33f4db)
 
 
-![flow_f](https://github.com/user-attachments/assets/99f6effa-e5d5-4dd7-9a87-4cca0c9df500)
-
 ![camera_jpp](https://github.com/user-attachments/assets/b9577fbf-1b5c-460d-9b42-b9cc37cf4f76)
