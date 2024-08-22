@@ -20,7 +20,7 @@ This project requires us to find the nutrients present in fruits and vegetables 
 ![Recipes](https://github.com/user-attachments/assets/1c8ae8fa-7b21-4e80-a822-1cf64280cb53)
 
 
-![image](https://github.com/user-attachments/assets/6eeec042-6f09-4269-badb-92b5ec33f4db)
+
 
 # It also predicts through Camera
 ![camera_jpp](https://github.com/user-attachments/assets/b9577fbf-1b5c-460d-9b42-b9cc37cf4f76)
